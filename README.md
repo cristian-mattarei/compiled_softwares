@@ -1,1 +1,1 @@
-# Pre-compiled softwares for EMME testing 
+# Pre-compiled minimal softwares packages 
